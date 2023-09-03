@@ -131,9 +131,7 @@ https://www.tooplate.com/view/2125-artxibition
                             <div class="place"><span><i class="fa fa-map-marker"></i><?php echo $ligne["description"]; ?></span></div>
                         </div>
                         <div class="col-lg-3">
-                            <div class="main-dark-button">
-                                <a href="ticket-details.html">Purchase Tickets</a>
-                            </div>
+                            
                         </div>
                     </div>
                 </li>
@@ -156,11 +154,7 @@ https://www.tooplate.com/view/2125-artxibition
                 <div class="col-lg-12">
                     <div class="pagination">
                         <ul>
-                            <li><a href="#">Prev</a></li>
-                            <li><a href="#">1</a></li>
-                            <li class="active"><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#">Next</a></li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -172,22 +166,12 @@ https://www.tooplate.com/view/2125-artxibition
     <div class="subscribe">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
-                    <h4>Subscribe Our Newsletter:</h4>
-                </div>
+                
                 <div class="col-lg-8">
                     <form id="subscribe" action="" method="get">
                         <div class="row">
-                          <div class="col-lg-9">
-                            <fieldset>
-                              <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email Address" required="">
-                            </fieldset>
-                          </div>
-                          <div class="col-lg-3">
-                            <fieldset>
-                              <button type="submit" id="form-submit" class="main-dark-button">Submit</button>
-                            </fieldset>
-                          </div>
+                          
+                          
                         </div>
                     </form>
                 </div>
@@ -199,24 +183,8 @@ https://www.tooplate.com/view/2125-artxibition
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
-                    <div class="address">
-                        <h4>Sunny Hill Festival Address</h4>
-                        <span>5 College St NW, <br>Norcross, GA 30071<br>United States</span>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="links">
-                        <h4>Useful Links</h4>
-                        <ul>
-                            <li><a href="#">Info</a></li>
-                            <li><a href="#">Venues</a></li>
-                            <li><a href="#">Guides</a></li>
-                            <li><a href="#">Videos</a></li>
-                            <li><a href="#">Outreach</a></li>
-                        </ul>
-                    </div>
-                </div>
+                
+                
                 <div class="col-lg-4">
                     <div class="hours">
                         <h4>Open Hours</h4>
@@ -231,13 +199,9 @@ https://www.tooplate.com/view/2125-artxibition
                     <div class="under-footer">
                         <div class="row">
                             <div class="col-lg-6">
-                                <p>São Conrado, Rio de Janeiro</p>
+                                <p></p>
                             </div>
-                            <div class="col-lg-6">
-                                <p class="copyright">Copyright 2021 ArtXibition Company 
-                    
-                    			<br>Design: <a rel="nofollow" href="https://www.tooplate.com" target="_parent">Tooplate</a></p>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
