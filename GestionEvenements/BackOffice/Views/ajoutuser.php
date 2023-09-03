@@ -171,7 +171,7 @@
                                         </div>
                                         <hr>
                                         <!--  onsubmit="return validateForm(event)"   -->
-                                        <form action="ajoutliv_form.php"    name="Form"    method="POST">
+                                        <form action="ajoutliv_form.php"    name="Form"    method="POST" onsubmit="return validateForm();">
 
                                             <div class="form-group">
                                                 <label >ID Utilisateur</label>
