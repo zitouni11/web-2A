@@ -49,7 +49,7 @@
             <li class="active">
                         <a href="index.html"> <i class="menu-icon fa fa-dashboard"></i> Espace Admin </a>
                     </li> 
-                   
+                      
                 <h3 class="menu-title"> ESPACE Admin</h3><!-- /.menu-title -->
                 <li class="menu-item-has-children dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-table"></i>Tables</a>
@@ -64,6 +64,7 @@
         </div><!-- /.navbar-collapse -->
     </nav>
 </aside><!-- /#left-panel -->
+
 
 <!-- Left Panel -->
 
