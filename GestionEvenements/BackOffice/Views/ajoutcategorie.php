@@ -27,7 +27,20 @@
 
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
 
+    <title>Form Validation</title>
+    <script>
+        function validateForm(form) {
+            var nom = form.elements['nom'].value;
+            var description = form.elements['description'].value;
+            
+            if (nom === "" || description === "") {
+                alert("Please fill in all fields.");
+                return false; 
+            }
 
+            return true; 
+        }
+    </script>
 
 </head>
 
@@ -151,7 +164,7 @@
                                         <h3 class="text-center">Ajouter </h3>
                                         </div>
                                         <hr>
-                                        <form action="ajoutercategorie.php" method="POST">
+                                        <form action="ajoutercategorie.php" method="POST" onsubmit="return validateForm(this);">
                                         
                                             
                                             <div class="form-group">
