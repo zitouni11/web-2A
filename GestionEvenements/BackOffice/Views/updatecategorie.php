@@ -69,9 +69,9 @@ include_once '../Controller/categorieC.php';
                     <li class="menu-item-has-children dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-table"></i>Tables</a>
                         <ul class="sub-menu children dropdown-menu">
-                            <!-- <li><i class="fa fa-table"></i><a href="tables-basic.html">Basic Table</a></li> -->
-                            <li><i class="fa fa-table"></i><a href="table-client.php">Client</a></li>
-                        <li><i class="fa fa-table"></i><a href="table-client.php">reclamation</a></li>
+                            <<li><i class="fa fa-table"></i><a href="table-user.php">User</a></li>
+                        
+                        <li><i class="fa fa-table"></i><a href="table-evenement.php">Evenement</a></li>
                         <li><i class="fa fa-table"></i><a href="table-categorie.php">categorie</a></li>
                         
                         </ul>

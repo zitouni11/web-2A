@@ -55,11 +55,10 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-table"></i>Tables</a>
                     <ul class="sub-menu children dropdown-menu">
                     
-                        <li><i class="fa fa-table"></i><a href="table-admin.php">admin</a></li>
-                        <li><i class="fa fa-table"></i><a href="table-client.php">reclamation</a></li>
+                        <li><i class="fa fa-table"></i><a href="table-user.php">User</a></li>
+                        
                         <li><i class="fa fa-table"></i><a href="table-evenement.php">Evenement</a></li>
                         <li><i class="fa fa-table"></i><a href="table-categorie.php">categorie</a></li>
-                        <li><i class="fa fa-table"></i><a href="table-stock.php">stock</a></li>
                     </ul>
                 </li></ul>
         </div><!-- /.navbar-collapse -->
